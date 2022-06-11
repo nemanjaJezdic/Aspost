@@ -1,0 +1,17 @@
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ASPOST.Application.deps.json
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ASPOST.Application.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ref\ASPOST.Application.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ASPOST.Application.pdb
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ASPOST.DataAccess.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ASPOST.Domain.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ASPOST.DataAccess.pdb
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\bin\Debug\net5.0\ASPOST.Domain.pdb
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.csprojAssemblyReference.cache
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.AssemblyInfoInputs.cache
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.AssemblyInfo.cs
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.csproj.CoreCompileInputs.cache
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.csproj.CopyComplete
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ref\ASPOST.Application.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST.Application\obj\Debug\net5.0\ASPOST.Application.pdb
