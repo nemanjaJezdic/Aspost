@@ -1,0 +1,12 @@
+C:\Users\jezda\source\repos\ASPOST\ASPOST\bin\Debug\net5.0\ASPOST.Domain.deps.json
+C:\Users\jezda\source\repos\ASPOST\ASPOST\bin\Debug\net5.0\ASPOST.Domain.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST\bin\Debug\net5.0\ref\ASPOST.Domain.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST\bin\Debug\net5.0\ASPOST.Domain.pdb
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ASPOST.Domain.csprojAssemblyReference.cache
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ASPOST.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ASPOST.Domain.AssemblyInfoInputs.cache
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ASPOST.Domain.AssemblyInfo.cs
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ASPOST.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ASPOST.Domain.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ref\ASPOST.Domain.dll
+C:\Users\jezda\source\repos\ASPOST\ASPOST\obj\Debug\net5.0\ASPOST.Domain.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jezda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jezda\\.nuget\\packages"
+    ]
+  }
+}
