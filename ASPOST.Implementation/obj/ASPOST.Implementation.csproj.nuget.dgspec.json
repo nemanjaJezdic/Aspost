@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Implementation\\ASPOST.Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Application\\ASPOST.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Application\\ASPOST.Application.csproj",
+        "projectName": "ASPOST.Application",
+        "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Application\\ASPOST.Application.csproj",
+        "packagesPath": "C:\\Users\\jezda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jezda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\ASPOST.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\ASPOST.DataAccess.csproj"
+              },
+              "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj": {
+                "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Doublel.QueryableBuilder": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\ASPOST.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\ASPOST.DataAccess.csproj",
+        "projectName": "ASPOST.DataAccess",
+        "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\ASPOST.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\jezda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jezda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj": {
+                "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Implementation\\ASPOST.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Implementation\\ASPOST.Implementation.csproj",
+        "projectName": "ASPOST.Implementation",
+        "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Implementation\\ASPOST.Implementation.csproj",
+        "packagesPath": "C:\\Users\\jezda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jezda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Application\\ASPOST.Application.csproj": {
+                "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.Application\\ASPOST.Application.csproj"
+              },
+              "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\ASPOST.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST.DataAccess\\ASPOST.DataAccess.csproj"
+              },
+              "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj": {
+                "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Doublel.QueryableBuilder": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj",
+        "projectName": "ASPOST.Domain",
+        "projectPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\ASPOST.Domain.csproj",
+        "packagesPath": "C:\\Users\\jezda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jezda\\source\\repos\\ASPOST\\ASPOST\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jezda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />
+    <PackageReference Include="Doublel.QueryableBuilder" Version="1.2.2" />
+    <PackageReference Include="FluentValidation" Version="10.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPOST.Application\ASPOST.Application.csproj" />
+    <ProjectReference Include="..\ASPOST.DataAccess\ASPOST.DataAccess.csproj" />
+    <ProjectReference Include="..\ASPOST\ASPOST.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
